@@ -16,7 +16,7 @@ import utility.Payoads;
 public class PostCreditCardReq {
 	
 	Properties prop=new Properties();
-	String TTag,TID;
+	String TTag,TID,AS;
 	
 	
 	@BeforeTest
