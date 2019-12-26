@@ -22,7 +22,7 @@ public class GetExcelData {
 		
 		int lastcol=sheet.getRow(0).getLastCellNum();
 		
-		System.out.println(rowcount);
+		
 		System.out.println(rowcount);
 		System.out.println(lastcol);
 	}
